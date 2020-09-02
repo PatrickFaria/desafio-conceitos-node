@@ -2,7 +2,7 @@
 
 ## Descrição:
 
-### API desnvolvida com o objetivo de realizar o cadastro de repositórios GIT. Sendo possivel também dar Likes nesses repostórios.
+### API desenvolvida com o objetivo de realizar o cadastro de repositórios GIT. Sendo possivel também dar Likes nesses repostórios.
 
 ## Rotas:
 
